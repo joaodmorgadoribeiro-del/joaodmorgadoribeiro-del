@@ -86,7 +86,7 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 ---
 
 ### ⚙️ MultiStack Infrastructure v2.0
-> Evolved version of the MultiStack project with improvements and new configurations.
+> Evolved version of the MultiStack project with improvements and new configurations. Also working closely with Kubernetes, Cert-manager and Let´s Encrypt.
 
 [![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodmorgadoribeiro-del/MultiStack-Infrastructure---v2.0)
 
