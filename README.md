@@ -21,7 +21,7 @@
 
 ## About me
 
-For 3 years I hired cloud engineers. I knew who was good and why. I just wasn't one of them. That felt like a problem worth solving.
+For 3 years I hired cloud engineers, Devops, SysAdmins, Backends, Frontends, etc. I knew who was good and why. I just wasn't one of them. That felt like a problem worth solving.
 
 So I went through the Ironhack Cloud & DevOps Bootcamp and built actual infrastructure from scratch. Kubernetes on EKS and AKS, Terraform, Docker, GitHub Actions, Prometheus, Grafana. Not everything worked on the first try. Most things didn't. But when the cluster finally comes up, the pipeline turns green, and everything just runs... that feeling makes it worth it.
 
