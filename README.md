@@ -61,7 +61,7 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 
 ## Projects
 
-### 🍽️ Restauranty — Full Microservices App on AKS
+### Restauranty — Full Microservices App on AKS
 > Restaurant management platform built with a partner as the Ironhack final capstone.
 
 - 4 microservices (auth, discounts, items, React frontend) containerised with Docker and pushed to Azure Container Registry
