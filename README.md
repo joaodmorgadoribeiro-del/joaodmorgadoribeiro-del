@@ -29,7 +29,7 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -59,7 +59,7 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🍽️ Restauranty — Full Microservices App on AKS
 > Restaurant management platform built with a partner as the Ironhack final capstone.
@@ -73,7 +73,7 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 
 ---
 
-### ⚙️ MultiStack Infrastructure — Voting App on EKS
+### MultiStack Infrastructure — Voting App on EKS
 > Multi-service voting application deployed on AWS with full IaC and CI/CD.
 
 - 5-service architecture (vote, result, worker, Redis, PostgreSQL) deployed on **EKS**
@@ -85,14 +85,14 @@ AZ-900 certified. Open to infrastructure and cloud roles.
 
 ---
 
-### ⚙️ MultiStack Infrastructure v2.0
+### MultiStack Infrastructure v2.0
 > Evolved version of the MultiStack project with improvements and new configurations. Also working closely with Kubernetes, Cert-manager and Let´s Encrypt.
 
 [![Repo](https://img.shields.io/badge/View_Repo-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodmorgadoribeiro-del/MultiStack-Infrastructure---v2.0)
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Ironhack](https://img.shields.io/badge/Ironhack_Cloud_%26_DevOps_Bootcamp-FF4B4B?style=for-the-badge&logoColor=white)
